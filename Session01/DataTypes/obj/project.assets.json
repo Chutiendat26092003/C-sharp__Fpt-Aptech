@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#_FPT-Aptech\\Session01\\DataTypes\\DataTypes.csproj",
+      "projectUniqueName": "E:\\C-sharp__Fpt-Aptech\\Session01\\DataTypes\\DataTypes.csproj",
       "projectName": "DataTypes",
-      "projectPath": "E:\\C#_FPT-Aptech\\Session01\\DataTypes\\DataTypes.csproj",
+      "projectPath": "E:\\C-sharp__Fpt-Aptech\\Session01\\DataTypes\\DataTypes.csproj",
       "packagesPath": "C:\\Users\\chu tien dat\\.nuget\\packages\\",
-      "outputPath": "E:\\C#_FPT-Aptech\\Session01\\DataTypes\\obj\\",
+      "outputPath": "E:\\C-sharp__Fpt-Aptech\\Session01\\DataTypes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,15 @@
+E:\C-sharp__Fpt-Aptech\Session01\Multiplication\bin\Debug\net6.0\Multiplication.exe
+E:\C-sharp__Fpt-Aptech\Session01\Multiplication\bin\Debug\net6.0\Multiplication.deps.json
+E:\C-sharp__Fpt-Aptech\Session01\Multiplication\bin\Debug\net6.0\Multiplication.runtimeconfig.json
+E:\C-sharp__Fpt-Aptech\Session01\Multiplication\bin\Debug\net6.0\Multiplication.dll
+E:\C-sharp__Fpt-Aptech\Session01\Multiplication\bin\Debug\net6.0\Multiplication.pdb
+E:\C-sharp__Fpt-Aptech\Session01\Multiplication\obj\Debug\net6.0\Multiplication.csproj.AssemblyReference.cache
+E:\C-sharp__Fpt-Aptech\Session01\Multiplication\obj\Debug\net6.0\Multiplication.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-sharp__Fpt-Aptech\Session01\Multiplication\obj\Debug\net6.0\Multiplication.AssemblyInfoInputs.cache
+E:\C-sharp__Fpt-Aptech\Session01\Multiplication\obj\Debug\net6.0\Multiplication.AssemblyInfo.cs
+E:\C-sharp__Fpt-Aptech\Session01\Multiplication\obj\Debug\net6.0\Multiplication.csproj.CoreCompileInputs.cache
+E:\C-sharp__Fpt-Aptech\Session01\Multiplication\obj\Debug\net6.0\Multiplication.dll
+E:\C-sharp__Fpt-Aptech\Session01\Multiplication\obj\Debug\net6.0\refint\Multiplication.dll
+E:\C-sharp__Fpt-Aptech\Session01\Multiplication\obj\Debug\net6.0\Multiplication.pdb
+E:\C-sharp__Fpt-Aptech\Session01\Multiplication\obj\Debug\net6.0\Multiplication.genruntimeconfig.cache
+E:\C-sharp__Fpt-Aptech\Session01\Multiplication\obj\Debug\net6.0\ref\Multiplication.dll

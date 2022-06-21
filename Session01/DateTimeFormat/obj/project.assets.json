@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#_FPT-Aptech\\Session01\\DateTimeFormat\\DateTimeFormat.csproj",
+      "projectUniqueName": "E:\\C-sharp__Fpt-Aptech\\Session01\\DateTimeFormat\\DateTimeFormat.csproj",
       "projectName": "DateTimeFormat",
-      "projectPath": "E:\\C#_FPT-Aptech\\Session01\\DateTimeFormat\\DateTimeFormat.csproj",
+      "projectPath": "E:\\C-sharp__Fpt-Aptech\\Session01\\DateTimeFormat\\DateTimeFormat.csproj",
       "packagesPath": "C:\\Users\\chu tien dat\\.nuget\\packages\\",
-      "outputPath": "E:\\C#_FPT-Aptech\\Session01\\DateTimeFormat\\obj\\",
+      "outputPath": "E:\\C-sharp__Fpt-Aptech\\Session01\\DateTimeFormat\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

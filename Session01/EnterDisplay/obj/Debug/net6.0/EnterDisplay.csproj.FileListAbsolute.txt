@@ -1,0 +1,15 @@
+E:\C-sharp__Fpt-Aptech\Session01\EnterDisplay\bin\Debug\net6.0\EnterDisplay.exe
+E:\C-sharp__Fpt-Aptech\Session01\EnterDisplay\bin\Debug\net6.0\EnterDisplay.deps.json
+E:\C-sharp__Fpt-Aptech\Session01\EnterDisplay\bin\Debug\net6.0\EnterDisplay.runtimeconfig.json
+E:\C-sharp__Fpt-Aptech\Session01\EnterDisplay\bin\Debug\net6.0\EnterDisplay.dll
+E:\C-sharp__Fpt-Aptech\Session01\EnterDisplay\bin\Debug\net6.0\EnterDisplay.pdb
+E:\C-sharp__Fpt-Aptech\Session01\EnterDisplay\obj\Debug\net6.0\EnterDisplay.csproj.AssemblyReference.cache
+E:\C-sharp__Fpt-Aptech\Session01\EnterDisplay\obj\Debug\net6.0\EnterDisplay.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-sharp__Fpt-Aptech\Session01\EnterDisplay\obj\Debug\net6.0\EnterDisplay.AssemblyInfoInputs.cache
+E:\C-sharp__Fpt-Aptech\Session01\EnterDisplay\obj\Debug\net6.0\EnterDisplay.AssemblyInfo.cs
+E:\C-sharp__Fpt-Aptech\Session01\EnterDisplay\obj\Debug\net6.0\EnterDisplay.csproj.CoreCompileInputs.cache
+E:\C-sharp__Fpt-Aptech\Session01\EnterDisplay\obj\Debug\net6.0\EnterDisplay.dll
+E:\C-sharp__Fpt-Aptech\Session01\EnterDisplay\obj\Debug\net6.0\refint\EnterDisplay.dll
+E:\C-sharp__Fpt-Aptech\Session01\EnterDisplay\obj\Debug\net6.0\EnterDisplay.pdb
+E:\C-sharp__Fpt-Aptech\Session01\EnterDisplay\obj\Debug\net6.0\EnterDisplay.genruntimeconfig.cache
+E:\C-sharp__Fpt-Aptech\Session01\EnterDisplay\obj\Debug\net6.0\ref\EnterDisplay.dll

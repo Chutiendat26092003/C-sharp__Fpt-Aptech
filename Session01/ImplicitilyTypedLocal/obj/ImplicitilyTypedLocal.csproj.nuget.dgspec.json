@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C#_FPT-Aptech\\Session01\\ImplicitilyTypedLocal\\ImplicitilyTypedLocal.csproj": {}
+    "E:\\C-sharp__Fpt-Aptech\\Session01\\ImplicitilyTypedLocal\\ImplicitilyTypedLocal.csproj": {}
   },
   "projects": {
-    "E:\\C#_FPT-Aptech\\Session01\\ImplicitilyTypedLocal\\ImplicitilyTypedLocal.csproj": {
+    "E:\\C-sharp__Fpt-Aptech\\Session01\\ImplicitilyTypedLocal\\ImplicitilyTypedLocal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#_FPT-Aptech\\Session01\\ImplicitilyTypedLocal\\ImplicitilyTypedLocal.csproj",
+        "projectUniqueName": "E:\\C-sharp__Fpt-Aptech\\Session01\\ImplicitilyTypedLocal\\ImplicitilyTypedLocal.csproj",
         "projectName": "ImplicitilyTypedLocal",
-        "projectPath": "E:\\C#_FPT-Aptech\\Session01\\ImplicitilyTypedLocal\\ImplicitilyTypedLocal.csproj",
+        "projectPath": "E:\\C-sharp__Fpt-Aptech\\Session01\\ImplicitilyTypedLocal\\ImplicitilyTypedLocal.csproj",
         "packagesPath": "C:\\Users\\chu tien dat\\.nuget\\packages\\",
-        "outputPath": "E:\\C#_FPT-Aptech\\Session01\\ImplicitilyTypedLocal\\obj\\",
+        "outputPath": "E:\\C-sharp__Fpt-Aptech\\Session01\\ImplicitilyTypedLocal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

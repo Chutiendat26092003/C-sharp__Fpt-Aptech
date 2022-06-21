@@ -1,0 +1,15 @@
+E:\C-sharp__Fpt-Aptech\Session01\ThreeNumber\bin\Debug\net6.0\ThreeNumber.exe
+E:\C-sharp__Fpt-Aptech\Session01\ThreeNumber\bin\Debug\net6.0\ThreeNumber.deps.json
+E:\C-sharp__Fpt-Aptech\Session01\ThreeNumber\bin\Debug\net6.0\ThreeNumber.runtimeconfig.json
+E:\C-sharp__Fpt-Aptech\Session01\ThreeNumber\bin\Debug\net6.0\ThreeNumber.dll
+E:\C-sharp__Fpt-Aptech\Session01\ThreeNumber\bin\Debug\net6.0\ThreeNumber.pdb
+E:\C-sharp__Fpt-Aptech\Session01\ThreeNumber\obj\Debug\net6.0\ThreeNumber.csproj.AssemblyReference.cache
+E:\C-sharp__Fpt-Aptech\Session01\ThreeNumber\obj\Debug\net6.0\ThreeNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-sharp__Fpt-Aptech\Session01\ThreeNumber\obj\Debug\net6.0\ThreeNumber.AssemblyInfoInputs.cache
+E:\C-sharp__Fpt-Aptech\Session01\ThreeNumber\obj\Debug\net6.0\ThreeNumber.AssemblyInfo.cs
+E:\C-sharp__Fpt-Aptech\Session01\ThreeNumber\obj\Debug\net6.0\ThreeNumber.csproj.CoreCompileInputs.cache
+E:\C-sharp__Fpt-Aptech\Session01\ThreeNumber\obj\Debug\net6.0\ThreeNumber.dll
+E:\C-sharp__Fpt-Aptech\Session01\ThreeNumber\obj\Debug\net6.0\refint\ThreeNumber.dll
+E:\C-sharp__Fpt-Aptech\Session01\ThreeNumber\obj\Debug\net6.0\ThreeNumber.pdb
+E:\C-sharp__Fpt-Aptech\Session01\ThreeNumber\obj\Debug\net6.0\ThreeNumber.genruntimeconfig.cache
+E:\C-sharp__Fpt-Aptech\Session01\ThreeNumber\obj\Debug\net6.0\ref\ThreeNumber.dll
