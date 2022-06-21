@@ -1,0 +1,15 @@
+E:\C#_FPT-Aptech\Session01\ImplicitilyTypedLocal\obj\Debug\net6.0\ImplicitilyTypedLocal.csproj.AssemblyReference.cache
+E:\C#_FPT-Aptech\Session01\ImplicitilyTypedLocal\obj\Debug\net6.0\ImplicitilyTypedLocal.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_FPT-Aptech\Session01\ImplicitilyTypedLocal\obj\Debug\net6.0\ImplicitilyTypedLocal.AssemblyInfoInputs.cache
+E:\C#_FPT-Aptech\Session01\ImplicitilyTypedLocal\obj\Debug\net6.0\ImplicitilyTypedLocal.AssemblyInfo.cs
+E:\C#_FPT-Aptech\Session01\ImplicitilyTypedLocal\obj\Debug\net6.0\ImplicitilyTypedLocal.csproj.CoreCompileInputs.cache
+E:\C#_FPT-Aptech\Session01\ImplicitilyTypedLocal\bin\Debug\net6.0\ImplicitilyTypedLocal.exe
+E:\C#_FPT-Aptech\Session01\ImplicitilyTypedLocal\bin\Debug\net6.0\ImplicitilyTypedLocal.deps.json
+E:\C#_FPT-Aptech\Session01\ImplicitilyTypedLocal\bin\Debug\net6.0\ImplicitilyTypedLocal.runtimeconfig.json
+E:\C#_FPT-Aptech\Session01\ImplicitilyTypedLocal\bin\Debug\net6.0\ImplicitilyTypedLocal.dll
+E:\C#_FPT-Aptech\Session01\ImplicitilyTypedLocal\bin\Debug\net6.0\ImplicitilyTypedLocal.pdb
+E:\C#_FPT-Aptech\Session01\ImplicitilyTypedLocal\obj\Debug\net6.0\ImplicitilyTypedLocal.dll
+E:\C#_FPT-Aptech\Session01\ImplicitilyTypedLocal\obj\Debug\net6.0\refint\ImplicitilyTypedLocal.dll
+E:\C#_FPT-Aptech\Session01\ImplicitilyTypedLocal\obj\Debug\net6.0\ImplicitilyTypedLocal.pdb
+E:\C#_FPT-Aptech\Session01\ImplicitilyTypedLocal\obj\Debug\net6.0\ImplicitilyTypedLocal.genruntimeconfig.cache
+E:\C#_FPT-Aptech\Session01\ImplicitilyTypedLocal\obj\Debug\net6.0\ref\ImplicitilyTypedLocal.dll

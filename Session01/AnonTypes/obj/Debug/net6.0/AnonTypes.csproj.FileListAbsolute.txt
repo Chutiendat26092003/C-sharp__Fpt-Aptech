@@ -1,0 +1,15 @@
+E:\C#_FPT-Aptech\Session01\AnonTypes\bin\Debug\net6.0\AnonTypes.exe
+E:\C#_FPT-Aptech\Session01\AnonTypes\bin\Debug\net6.0\AnonTypes.deps.json
+E:\C#_FPT-Aptech\Session01\AnonTypes\bin\Debug\net6.0\AnonTypes.runtimeconfig.json
+E:\C#_FPT-Aptech\Session01\AnonTypes\bin\Debug\net6.0\AnonTypes.dll
+E:\C#_FPT-Aptech\Session01\AnonTypes\bin\Debug\net6.0\AnonTypes.pdb
+E:\C#_FPT-Aptech\Session01\AnonTypes\obj\Debug\net6.0\AnonTypes.csproj.AssemblyReference.cache
+E:\C#_FPT-Aptech\Session01\AnonTypes\obj\Debug\net6.0\AnonTypes.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_FPT-Aptech\Session01\AnonTypes\obj\Debug\net6.0\AnonTypes.AssemblyInfoInputs.cache
+E:\C#_FPT-Aptech\Session01\AnonTypes\obj\Debug\net6.0\AnonTypes.AssemblyInfo.cs
+E:\C#_FPT-Aptech\Session01\AnonTypes\obj\Debug\net6.0\AnonTypes.csproj.CoreCompileInputs.cache
+E:\C#_FPT-Aptech\Session01\AnonTypes\obj\Debug\net6.0\AnonTypes.dll
+E:\C#_FPT-Aptech\Session01\AnonTypes\obj\Debug\net6.0\refint\AnonTypes.dll
+E:\C#_FPT-Aptech\Session01\AnonTypes\obj\Debug\net6.0\AnonTypes.pdb
+E:\C#_FPT-Aptech\Session01\AnonTypes\obj\Debug\net6.0\AnonTypes.genruntimeconfig.cache
+E:\C#_FPT-Aptech\Session01\AnonTypes\obj\Debug\net6.0\ref\AnonTypes.dll

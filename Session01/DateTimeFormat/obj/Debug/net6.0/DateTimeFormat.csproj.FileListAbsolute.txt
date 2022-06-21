@@ -1,0 +1,15 @@
+E:\C#_FPT-Aptech\Session01\DateTimeFormat\bin\Debug\net6.0\DateTimeFormat.exe
+E:\C#_FPT-Aptech\Session01\DateTimeFormat\bin\Debug\net6.0\DateTimeFormat.deps.json
+E:\C#_FPT-Aptech\Session01\DateTimeFormat\bin\Debug\net6.0\DateTimeFormat.runtimeconfig.json
+E:\C#_FPT-Aptech\Session01\DateTimeFormat\bin\Debug\net6.0\DateTimeFormat.dll
+E:\C#_FPT-Aptech\Session01\DateTimeFormat\bin\Debug\net6.0\DateTimeFormat.pdb
+E:\C#_FPT-Aptech\Session01\DateTimeFormat\obj\Debug\net6.0\DateTimeFormat.csproj.AssemblyReference.cache
+E:\C#_FPT-Aptech\Session01\DateTimeFormat\obj\Debug\net6.0\DateTimeFormat.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_FPT-Aptech\Session01\DateTimeFormat\obj\Debug\net6.0\DateTimeFormat.AssemblyInfoInputs.cache
+E:\C#_FPT-Aptech\Session01\DateTimeFormat\obj\Debug\net6.0\DateTimeFormat.AssemblyInfo.cs
+E:\C#_FPT-Aptech\Session01\DateTimeFormat\obj\Debug\net6.0\DateTimeFormat.csproj.CoreCompileInputs.cache
+E:\C#_FPT-Aptech\Session01\DateTimeFormat\obj\Debug\net6.0\DateTimeFormat.dll
+E:\C#_FPT-Aptech\Session01\DateTimeFormat\obj\Debug\net6.0\refint\DateTimeFormat.dll
+E:\C#_FPT-Aptech\Session01\DateTimeFormat\obj\Debug\net6.0\DateTimeFormat.pdb
+E:\C#_FPT-Aptech\Session01\DateTimeFormat\obj\Debug\net6.0\DateTimeFormat.genruntimeconfig.cache
+E:\C#_FPT-Aptech\Session01\DateTimeFormat\obj\Debug\net6.0\ref\DateTimeFormat.dll

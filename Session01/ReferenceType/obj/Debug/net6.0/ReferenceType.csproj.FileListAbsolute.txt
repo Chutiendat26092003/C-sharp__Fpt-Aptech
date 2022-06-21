@@ -1,0 +1,15 @@
+E:\C#_FPT-Aptech\Session01\ReferenceType\obj\Debug\net6.0\ReferenceType.csproj.AssemblyReference.cache
+E:\C#_FPT-Aptech\Session01\ReferenceType\obj\Debug\net6.0\ReferenceType.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_FPT-Aptech\Session01\ReferenceType\obj\Debug\net6.0\ReferenceType.AssemblyInfoInputs.cache
+E:\C#_FPT-Aptech\Session01\ReferenceType\obj\Debug\net6.0\ReferenceType.AssemblyInfo.cs
+E:\C#_FPT-Aptech\Session01\ReferenceType\obj\Debug\net6.0\ReferenceType.csproj.CoreCompileInputs.cache
+E:\C#_FPT-Aptech\Session01\ReferenceType\bin\Debug\net6.0\ReferenceType.exe
+E:\C#_FPT-Aptech\Session01\ReferenceType\bin\Debug\net6.0\ReferenceType.deps.json
+E:\C#_FPT-Aptech\Session01\ReferenceType\bin\Debug\net6.0\ReferenceType.runtimeconfig.json
+E:\C#_FPT-Aptech\Session01\ReferenceType\bin\Debug\net6.0\ReferenceType.dll
+E:\C#_FPT-Aptech\Session01\ReferenceType\bin\Debug\net6.0\ReferenceType.pdb
+E:\C#_FPT-Aptech\Session01\ReferenceType\obj\Debug\net6.0\ReferenceType.dll
+E:\C#_FPT-Aptech\Session01\ReferenceType\obj\Debug\net6.0\refint\ReferenceType.dll
+E:\C#_FPT-Aptech\Session01\ReferenceType\obj\Debug\net6.0\ReferenceType.pdb
+E:\C#_FPT-Aptech\Session01\ReferenceType\obj\Debug\net6.0\ReferenceType.genruntimeconfig.cache
+E:\C#_FPT-Aptech\Session01\ReferenceType\obj\Debug\net6.0\ref\ReferenceType.dll
