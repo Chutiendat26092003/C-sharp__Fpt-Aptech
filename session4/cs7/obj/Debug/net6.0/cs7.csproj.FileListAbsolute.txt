@@ -1,0 +1,15 @@
+E:\C#_FPT-Aptech\session4\cs7\obj\Debug\net6.0\cs7.csproj.AssemblyReference.cache
+E:\C#_FPT-Aptech\session4\cs7\obj\Debug\net6.0\cs7.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_FPT-Aptech\session4\cs7\obj\Debug\net6.0\cs7.AssemblyInfoInputs.cache
+E:\C#_FPT-Aptech\session4\cs7\obj\Debug\net6.0\cs7.AssemblyInfo.cs
+E:\C#_FPT-Aptech\session4\cs7\obj\Debug\net6.0\cs7.csproj.CoreCompileInputs.cache
+E:\C#_FPT-Aptech\session4\cs7\bin\Debug\net6.0\cs7.exe
+E:\C#_FPT-Aptech\session4\cs7\bin\Debug\net6.0\cs7.deps.json
+E:\C#_FPT-Aptech\session4\cs7\bin\Debug\net6.0\cs7.runtimeconfig.json
+E:\C#_FPT-Aptech\session4\cs7\bin\Debug\net6.0\cs7.dll
+E:\C#_FPT-Aptech\session4\cs7\bin\Debug\net6.0\cs7.pdb
+E:\C#_FPT-Aptech\session4\cs7\obj\Debug\net6.0\cs7.dll
+E:\C#_FPT-Aptech\session4\cs7\obj\Debug\net6.0\refint\cs7.dll
+E:\C#_FPT-Aptech\session4\cs7\obj\Debug\net6.0\cs7.pdb
+E:\C#_FPT-Aptech\session4\cs7\obj\Debug\net6.0\cs7.genruntimeconfig.cache
+E:\C#_FPT-Aptech\session4\cs7\obj\Debug\net6.0\ref\cs7.dll
