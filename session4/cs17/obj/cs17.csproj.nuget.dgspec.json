@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C#_FPT-Aptech\\session4\\cs17\\cs17.csproj": {}
+    "E:\\C-sharp__Fpt-Aptech\\session4\\cs17\\cs17.csproj": {}
   },
   "projects": {
-    "E:\\C#_FPT-Aptech\\session4\\cs17\\cs17.csproj": {
+    "E:\\C-sharp__Fpt-Aptech\\session4\\cs17\\cs17.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#_FPT-Aptech\\session4\\cs17\\cs17.csproj",
+        "projectUniqueName": "E:\\C-sharp__Fpt-Aptech\\session4\\cs17\\cs17.csproj",
         "projectName": "cs17",
-        "projectPath": "E:\\C#_FPT-Aptech\\session4\\cs17\\cs17.csproj",
+        "projectPath": "E:\\C-sharp__Fpt-Aptech\\session4\\cs17\\cs17.csproj",
         "packagesPath": "C:\\Users\\chu tien dat\\.nuget\\packages\\",
-        "outputPath": "E:\\C#_FPT-Aptech\\session4\\cs17\\obj\\",
+        "outputPath": "E:\\C-sharp__Fpt-Aptech\\session4\\cs17\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
