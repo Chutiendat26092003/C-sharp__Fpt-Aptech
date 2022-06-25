@@ -41,15 +41,12 @@ class ATM
 
                         break;
                     case 3:
-                        Console.WriteLine(user1.ToString());
-                        Console.WriteLine(user2.ToString());
+                        Check(user1);
+                        Check(user2);
                         break;
                 }
 
             } while (lc != 0);
-            //{
-            //    Console.WriteLine("Xin cảm ơn!");
-            //}
         }
         else
         {
@@ -91,7 +88,7 @@ class ATM
 
         public override string ToString()
         {
-            return $"Username:{Username} \n Balance:{Balance}";
+            return $"Username:{Username} \t Balance:{Balance}";
         }
     }
 
