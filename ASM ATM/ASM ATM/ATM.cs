@@ -59,13 +59,13 @@ class ATM
     {
         string username;
         string password;
-        int balance;
+        int surplus;
 
-        public User(string username, string password, int balance)
+        public User(string username, string password, int surplus)
         {
             Username = username;
             Password = password;
-            Balance = balance;
+            Surplus = surplus;
         }
 
         public string Username
@@ -80,15 +80,15 @@ class ATM
             set { password = value; }
         }
 
-        public int Balance
+        public int Surplus
         {
-            get { return balance; }
-            set { balance = value; }
+            get { return surplus; }
+            set { surplus = value; }
         }
 
         public override string ToString()
         {
-            return $"Username:{Username} \t Balance:{Balance}";
+            return $"Username:{Username} \t Surplus:{Surplus}";
         }
     }
 
@@ -115,9 +115,9 @@ class ATM
 
     static void Withdraw(int num, User u) 
     {
-        if ((num%50 == 0) && (num <= 3000000) && (num <= u.Balance))
+        if ((num%50 == 0) && (num <= 3000000) && (num <= u.Surplus))
         {
-            u.Balance -= num;
+            u.Surplus -= num;
             Console.WriteLine("Giao dịch thành công!");
         }
         else
@@ -128,10 +128,10 @@ class ATM
 
     static void Transfer(int num, User u1, User u2)
     {
-        if ((num >= 0) && (num <= u1.Balance))
+        if ((num >= 0) && (num <= u1.Surplus))
         {
-            u1.Balance -= num;
-            u2.Balance += num;
+            u1.Surplus -= num;
+            u2.Surplus += num;
             Console.WriteLine("Giao dịch thành công!");
         }
         else
