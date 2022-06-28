@@ -1,0 +1,15 @@
+E:\C-sharp__Fpt-Aptech\array\array\bin\Debug\net6.0\array.exe
+E:\C-sharp__Fpt-Aptech\array\array\bin\Debug\net6.0\array.deps.json
+E:\C-sharp__Fpt-Aptech\array\array\bin\Debug\net6.0\array.runtimeconfig.json
+E:\C-sharp__Fpt-Aptech\array\array\bin\Debug\net6.0\array.dll
+E:\C-sharp__Fpt-Aptech\array\array\bin\Debug\net6.0\array.pdb
+E:\C-sharp__Fpt-Aptech\array\array\obj\Debug\net6.0\array.csproj.AssemblyReference.cache
+E:\C-sharp__Fpt-Aptech\array\array\obj\Debug\net6.0\array.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-sharp__Fpt-Aptech\array\array\obj\Debug\net6.0\array.AssemblyInfoInputs.cache
+E:\C-sharp__Fpt-Aptech\array\array\obj\Debug\net6.0\array.AssemblyInfo.cs
+E:\C-sharp__Fpt-Aptech\array\array\obj\Debug\net6.0\array.csproj.CoreCompileInputs.cache
+E:\C-sharp__Fpt-Aptech\array\array\obj\Debug\net6.0\array.dll
+E:\C-sharp__Fpt-Aptech\array\array\obj\Debug\net6.0\refint\array.dll
+E:\C-sharp__Fpt-Aptech\array\array\obj\Debug\net6.0\array.pdb
+E:\C-sharp__Fpt-Aptech\array\array\obj\Debug\net6.0\array.genruntimeconfig.cache
+E:\C-sharp__Fpt-Aptech\array\array\obj\Debug\net6.0\ref\array.dll

@@ -1,0 +1,15 @@
+E:\C-sharp__Fpt-Aptech\array\array-BookStore\bin\Debug\net6.0\array-BookStore.exe
+E:\C-sharp__Fpt-Aptech\array\array-BookStore\bin\Debug\net6.0\array-BookStore.deps.json
+E:\C-sharp__Fpt-Aptech\array\array-BookStore\bin\Debug\net6.0\array-BookStore.runtimeconfig.json
+E:\C-sharp__Fpt-Aptech\array\array-BookStore\bin\Debug\net6.0\array-BookStore.dll
+E:\C-sharp__Fpt-Aptech\array\array-BookStore\bin\Debug\net6.0\array-BookStore.pdb
+E:\C-sharp__Fpt-Aptech\array\array-BookStore\obj\Debug\net6.0\array-BookStore.csproj.AssemblyReference.cache
+E:\C-sharp__Fpt-Aptech\array\array-BookStore\obj\Debug\net6.0\array-BookStore.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-sharp__Fpt-Aptech\array\array-BookStore\obj\Debug\net6.0\array-BookStore.AssemblyInfoInputs.cache
+E:\C-sharp__Fpt-Aptech\array\array-BookStore\obj\Debug\net6.0\array-BookStore.AssemblyInfo.cs
+E:\C-sharp__Fpt-Aptech\array\array-BookStore\obj\Debug\net6.0\array-BookStore.csproj.CoreCompileInputs.cache
+E:\C-sharp__Fpt-Aptech\array\array-BookStore\obj\Debug\net6.0\array-BookStore.dll
+E:\C-sharp__Fpt-Aptech\array\array-BookStore\obj\Debug\net6.0\refint\array-BookStore.dll
+E:\C-sharp__Fpt-Aptech\array\array-BookStore\obj\Debug\net6.0\array-BookStore.pdb
+E:\C-sharp__Fpt-Aptech\array\array-BookStore\obj\Debug\net6.0\array-BookStore.genruntimeconfig.cache
+E:\C-sharp__Fpt-Aptech\array\array-BookStore\obj\Debug\net6.0\ref\array-BookStore.dll
