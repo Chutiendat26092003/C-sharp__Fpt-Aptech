@@ -1,0 +1,4 @@
+﻿interface IAnimal
+{
+    void AnimalType();
+}

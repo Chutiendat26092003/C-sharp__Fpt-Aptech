@@ -1,0 +1,5 @@
+E:\C-sharp__Fpt-Aptech\ss7\cs3\obj\Debug\net6.0\cs3.csproj.AssemblyReference.cache
+E:\C-sharp__Fpt-Aptech\ss7\cs3\obj\Debug\net6.0\cs3.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-sharp__Fpt-Aptech\ss7\cs3\obj\Debug\net6.0\cs3.AssemblyInfoInputs.cache
+E:\C-sharp__Fpt-Aptech\ss7\cs3\obj\Debug\net6.0\cs3.AssemblyInfo.cs
+E:\C-sharp__Fpt-Aptech\ss7\cs3\obj\Debug\net6.0\cs3.csproj.CoreCompileInputs.cache
