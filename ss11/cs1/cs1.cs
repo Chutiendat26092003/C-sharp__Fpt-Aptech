@@ -31,6 +31,7 @@ class ReadOnly
         {
             Console.WriteLine(str);
         }
+
         string[] array = new string[objReadOnly.Count * 2];
         objReadOnly.CopyTo(array, 5);
         Console.WriteLine("\nTotal number of values that can be stored in the new array: " + array.Length);

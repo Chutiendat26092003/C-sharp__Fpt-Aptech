@@ -18,7 +18,6 @@ class Employee
         get { return _empID; }
     }
 }
-
 class GenericList<T> where T : Employee
 {
     T[] _name = new T[3];

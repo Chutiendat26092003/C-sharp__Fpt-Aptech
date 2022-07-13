@@ -6,7 +6,6 @@ interface IMaths<T>
     T Addition (T valOne, T valTwo);
     T Subtraction (T valOne, T valTwo);
 }
-
 class Numbers : IMaths<int>
 {
     public int Addition(int valOne, int valTwo)

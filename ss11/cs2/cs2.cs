@@ -9,7 +9,6 @@ class General<T>
     {
         values = new T[max];
     }
-
     public void Add(T val)
     {
         if (_counter < values.Length)

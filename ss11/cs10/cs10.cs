@@ -10,7 +10,6 @@ class Deparment : IEnumerable
             yield return departmentNames[i];
         }
     }
-
     static void Main(string[] args)
     {
         Deparment objDepartment = new Deparment();

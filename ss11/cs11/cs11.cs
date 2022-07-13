@@ -35,7 +35,6 @@ class GenericIterator
         {
             Console.Write(arg + "\t\t");
         }
-
         Console.WriteLine();
     }
 }

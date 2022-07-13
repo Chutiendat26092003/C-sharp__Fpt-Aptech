@@ -20,7 +20,6 @@ class Student: IDetails
         Console.WriteLine(_stuID + "\t" + _studName);
     }
 }
-
 class GenericList<T> where T : IDetails
 {
     T[] _values = new T[3];

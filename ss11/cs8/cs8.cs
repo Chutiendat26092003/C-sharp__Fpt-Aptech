@@ -24,6 +24,7 @@ class Generic<T, U>
 
 class MethodOverload
 {
+
     static void Main(string[] args)
     {
         Generic<int, string> objGenOne = new Generic<int, string>();

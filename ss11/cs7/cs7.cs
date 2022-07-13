@@ -1,5 +1,6 @@
 ﻿using System;
 delegate T DelMath<T>(T val);
+
 class Numbers
 {
     static int NumberType(int num)

@@ -23,7 +23,6 @@ class Student<T> : GenericList<T>
     {
         Value = valTwo;
     }
-
     public override T GetValue()
     {
         Console.WriteLine(base.GetValue() + "\t\t");
