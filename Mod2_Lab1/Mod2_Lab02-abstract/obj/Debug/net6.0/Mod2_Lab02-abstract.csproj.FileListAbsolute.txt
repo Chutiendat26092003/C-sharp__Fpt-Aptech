@@ -1,0 +1,15 @@
+E:\C-sharp__Fpt-Aptech\Mod2_Lab1\Mod2_Lab02-abstract\obj\Debug\net6.0\Mod2_Lab02-abstract.csproj.AssemblyReference.cache
+E:\C-sharp__Fpt-Aptech\Mod2_Lab1\Mod2_Lab02-abstract\obj\Debug\net6.0\Mod2_Lab02-abstract.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-sharp__Fpt-Aptech\Mod2_Lab1\Mod2_Lab02-abstract\obj\Debug\net6.0\Mod2_Lab02-abstract.AssemblyInfoInputs.cache
+E:\C-sharp__Fpt-Aptech\Mod2_Lab1\Mod2_Lab02-abstract\obj\Debug\net6.0\Mod2_Lab02-abstract.AssemblyInfo.cs
+E:\C-sharp__Fpt-Aptech\Mod2_Lab1\Mod2_Lab02-abstract\obj\Debug\net6.0\Mod2_Lab02-abstract.csproj.CoreCompileInputs.cache
+E:\C-sharp__Fpt-Aptech\Mod2_Lab1\Mod2_Lab02-abstract\bin\Debug\net6.0\Mod2_Lab02-abstract.exe
+E:\C-sharp__Fpt-Aptech\Mod2_Lab1\Mod2_Lab02-abstract\bin\Debug\net6.0\Mod2_Lab02-abstract.deps.json
+E:\C-sharp__Fpt-Aptech\Mod2_Lab1\Mod2_Lab02-abstract\bin\Debug\net6.0\Mod2_Lab02-abstract.runtimeconfig.json
+E:\C-sharp__Fpt-Aptech\Mod2_Lab1\Mod2_Lab02-abstract\bin\Debug\net6.0\Mod2_Lab02-abstract.dll
+E:\C-sharp__Fpt-Aptech\Mod2_Lab1\Mod2_Lab02-abstract\bin\Debug\net6.0\Mod2_Lab02-abstract.pdb
+E:\C-sharp__Fpt-Aptech\Mod2_Lab1\Mod2_Lab02-abstract\obj\Debug\net6.0\Mod2_Lab02-abstract.dll
+E:\C-sharp__Fpt-Aptech\Mod2_Lab1\Mod2_Lab02-abstract\obj\Debug\net6.0\refint\Mod2_Lab02-abstract.dll
+E:\C-sharp__Fpt-Aptech\Mod2_Lab1\Mod2_Lab02-abstract\obj\Debug\net6.0\Mod2_Lab02-abstract.pdb
+E:\C-sharp__Fpt-Aptech\Mod2_Lab1\Mod2_Lab02-abstract\obj\Debug\net6.0\Mod2_Lab02-abstract.genruntimeconfig.cache
+E:\C-sharp__Fpt-Aptech\Mod2_Lab1\Mod2_Lab02-abstract\obj\Debug\net6.0\ref\Mod2_Lab02-abstract.dll
