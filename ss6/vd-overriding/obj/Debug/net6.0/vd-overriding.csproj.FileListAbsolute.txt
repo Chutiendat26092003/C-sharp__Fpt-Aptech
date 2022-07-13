@@ -1,0 +1,15 @@
+E:\C-sharp__Fpt-Aptech\ss6\vd-overriding\bin\Debug\net6.0\vd-overriding.exe
+E:\C-sharp__Fpt-Aptech\ss6\vd-overriding\bin\Debug\net6.0\vd-overriding.deps.json
+E:\C-sharp__Fpt-Aptech\ss6\vd-overriding\bin\Debug\net6.0\vd-overriding.runtimeconfig.json
+E:\C-sharp__Fpt-Aptech\ss6\vd-overriding\bin\Debug\net6.0\vd-overriding.dll
+E:\C-sharp__Fpt-Aptech\ss6\vd-overriding\bin\Debug\net6.0\vd-overriding.pdb
+E:\C-sharp__Fpt-Aptech\ss6\vd-overriding\obj\Debug\net6.0\vd-overriding.csproj.AssemblyReference.cache
+E:\C-sharp__Fpt-Aptech\ss6\vd-overriding\obj\Debug\net6.0\vd-overriding.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-sharp__Fpt-Aptech\ss6\vd-overriding\obj\Debug\net6.0\vd-overriding.AssemblyInfoInputs.cache
+E:\C-sharp__Fpt-Aptech\ss6\vd-overriding\obj\Debug\net6.0\vd-overriding.AssemblyInfo.cs
+E:\C-sharp__Fpt-Aptech\ss6\vd-overriding\obj\Debug\net6.0\vd-overriding.csproj.CoreCompileInputs.cache
+E:\C-sharp__Fpt-Aptech\ss6\vd-overriding\obj\Debug\net6.0\vd-overriding.dll
+E:\C-sharp__Fpt-Aptech\ss6\vd-overriding\obj\Debug\net6.0\refint\vd-overriding.dll
+E:\C-sharp__Fpt-Aptech\ss6\vd-overriding\obj\Debug\net6.0\vd-overriding.pdb
+E:\C-sharp__Fpt-Aptech\ss6\vd-overriding\obj\Debug\net6.0\vd-overriding.genruntimeconfig.cache
+E:\C-sharp__Fpt-Aptech\ss6\vd-overriding\obj\Debug\net6.0\ref\vd-overriding.dll

@@ -1,0 +1,15 @@
+E:\C-sharp__Fpt-Aptech\ss11\cs3\bin\Debug\net6.0\cs3.exe
+E:\C-sharp__Fpt-Aptech\ss11\cs3\bin\Debug\net6.0\cs3.deps.json
+E:\C-sharp__Fpt-Aptech\ss11\cs3\bin\Debug\net6.0\cs3.runtimeconfig.json
+E:\C-sharp__Fpt-Aptech\ss11\cs3\bin\Debug\net6.0\cs3.dll
+E:\C-sharp__Fpt-Aptech\ss11\cs3\bin\Debug\net6.0\cs3.pdb
+E:\C-sharp__Fpt-Aptech\ss11\cs3\obj\Debug\net6.0\cs3.csproj.AssemblyReference.cache
+E:\C-sharp__Fpt-Aptech\ss11\cs3\obj\Debug\net6.0\cs3.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-sharp__Fpt-Aptech\ss11\cs3\obj\Debug\net6.0\cs3.AssemblyInfoInputs.cache
+E:\C-sharp__Fpt-Aptech\ss11\cs3\obj\Debug\net6.0\cs3.AssemblyInfo.cs
+E:\C-sharp__Fpt-Aptech\ss11\cs3\obj\Debug\net6.0\cs3.csproj.CoreCompileInputs.cache
+E:\C-sharp__Fpt-Aptech\ss11\cs3\obj\Debug\net6.0\cs3.dll
+E:\C-sharp__Fpt-Aptech\ss11\cs3\obj\Debug\net6.0\refint\cs3.dll
+E:\C-sharp__Fpt-Aptech\ss11\cs3\obj\Debug\net6.0\cs3.pdb
+E:\C-sharp__Fpt-Aptech\ss11\cs3\obj\Debug\net6.0\cs3.genruntimeconfig.cache
+E:\C-sharp__Fpt-Aptech\ss11\cs3\obj\Debug\net6.0\ref\cs3.dll

@@ -1,0 +1,15 @@
+E:\C-sharp__Fpt-Aptech\ss11\ss11\bin\Debug\net6.0\ss11.exe
+E:\C-sharp__Fpt-Aptech\ss11\ss11\bin\Debug\net6.0\ss11.deps.json
+E:\C-sharp__Fpt-Aptech\ss11\ss11\bin\Debug\net6.0\ss11.runtimeconfig.json
+E:\C-sharp__Fpt-Aptech\ss11\ss11\bin\Debug\net6.0\ss11.dll
+E:\C-sharp__Fpt-Aptech\ss11\ss11\bin\Debug\net6.0\ss11.pdb
+E:\C-sharp__Fpt-Aptech\ss11\ss11\obj\Debug\net6.0\ss11.csproj.AssemblyReference.cache
+E:\C-sharp__Fpt-Aptech\ss11\ss11\obj\Debug\net6.0\ss11.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-sharp__Fpt-Aptech\ss11\ss11\obj\Debug\net6.0\ss11.AssemblyInfoInputs.cache
+E:\C-sharp__Fpt-Aptech\ss11\ss11\obj\Debug\net6.0\ss11.AssemblyInfo.cs
+E:\C-sharp__Fpt-Aptech\ss11\ss11\obj\Debug\net6.0\ss11.csproj.CoreCompileInputs.cache
+E:\C-sharp__Fpt-Aptech\ss11\ss11\obj\Debug\net6.0\ss11.dll
+E:\C-sharp__Fpt-Aptech\ss11\ss11\obj\Debug\net6.0\refint\ss11.dll
+E:\C-sharp__Fpt-Aptech\ss11\ss11\obj\Debug\net6.0\ss11.pdb
+E:\C-sharp__Fpt-Aptech\ss11\ss11\obj\Debug\net6.0\ss11.genruntimeconfig.cache
+E:\C-sharp__Fpt-Aptech\ss11\ss11\obj\Debug\net6.0\ref\ss11.dll

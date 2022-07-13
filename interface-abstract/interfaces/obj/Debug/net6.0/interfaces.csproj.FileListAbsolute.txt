@@ -1,0 +1,15 @@
+E:\C-sharp__Fpt-Aptech\interface-abstract\interfaces\bin\Debug\net6.0\interfaces.exe
+E:\C-sharp__Fpt-Aptech\interface-abstract\interfaces\bin\Debug\net6.0\interfaces.deps.json
+E:\C-sharp__Fpt-Aptech\interface-abstract\interfaces\bin\Debug\net6.0\interfaces.runtimeconfig.json
+E:\C-sharp__Fpt-Aptech\interface-abstract\interfaces\bin\Debug\net6.0\interfaces.dll
+E:\C-sharp__Fpt-Aptech\interface-abstract\interfaces\bin\Debug\net6.0\interfaces.pdb
+E:\C-sharp__Fpt-Aptech\interface-abstract\interfaces\obj\Debug\net6.0\interfaces.csproj.AssemblyReference.cache
+E:\C-sharp__Fpt-Aptech\interface-abstract\interfaces\obj\Debug\net6.0\interfaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-sharp__Fpt-Aptech\interface-abstract\interfaces\obj\Debug\net6.0\interfaces.AssemblyInfoInputs.cache
+E:\C-sharp__Fpt-Aptech\interface-abstract\interfaces\obj\Debug\net6.0\interfaces.AssemblyInfo.cs
+E:\C-sharp__Fpt-Aptech\interface-abstract\interfaces\obj\Debug\net6.0\interfaces.csproj.CoreCompileInputs.cache
+E:\C-sharp__Fpt-Aptech\interface-abstract\interfaces\obj\Debug\net6.0\interfaces.dll
+E:\C-sharp__Fpt-Aptech\interface-abstract\interfaces\obj\Debug\net6.0\refint\interfaces.dll
+E:\C-sharp__Fpt-Aptech\interface-abstract\interfaces\obj\Debug\net6.0\interfaces.pdb
+E:\C-sharp__Fpt-Aptech\interface-abstract\interfaces\obj\Debug\net6.0\interfaces.genruntimeconfig.cache
+E:\C-sharp__Fpt-Aptech\interface-abstract\interfaces\obj\Debug\net6.0\ref\interfaces.dll

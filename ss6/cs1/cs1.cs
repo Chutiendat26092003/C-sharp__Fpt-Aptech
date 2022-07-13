@@ -29,3 +29,4 @@ class Dog : Mammal
         objDog.Noise();
     }
 }
+

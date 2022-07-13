@@ -1,0 +1,5 @@
+E:\C-sharp__Fpt-Aptech\interface-abstract\interface\obj\Debug\net6.0\interface.csproj.AssemblyReference.cache
+E:\C-sharp__Fpt-Aptech\interface-abstract\interface\obj\Debug\net6.0\interface.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-sharp__Fpt-Aptech\interface-abstract\interface\obj\Debug\net6.0\interface.AssemblyInfoInputs.cache
+E:\C-sharp__Fpt-Aptech\interface-abstract\interface\obj\Debug\net6.0\interface.AssemblyInfo.cs
+E:\C-sharp__Fpt-Aptech\interface-abstract\interface\obj\Debug\net6.0\interface.csproj.CoreCompileInputs.cache
