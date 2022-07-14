@@ -1,0 +1,15 @@
+E:\C-sharp__Fpt-Aptech\ThiTH\ThiTH\obj\Debug\net6.0\ThiTH.csproj.AssemblyReference.cache
+E:\C-sharp__Fpt-Aptech\ThiTH\ThiTH\obj\Debug\net6.0\ThiTH.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-sharp__Fpt-Aptech\ThiTH\ThiTH\obj\Debug\net6.0\ThiTH.AssemblyInfoInputs.cache
+E:\C-sharp__Fpt-Aptech\ThiTH\ThiTH\obj\Debug\net6.0\ThiTH.AssemblyInfo.cs
+E:\C-sharp__Fpt-Aptech\ThiTH\ThiTH\obj\Debug\net6.0\ThiTH.csproj.CoreCompileInputs.cache
+E:\C-sharp__Fpt-Aptech\ThiTH\ThiTH\bin\Debug\net6.0\ThiTH.exe
+E:\C-sharp__Fpt-Aptech\ThiTH\ThiTH\bin\Debug\net6.0\ThiTH.deps.json
+E:\C-sharp__Fpt-Aptech\ThiTH\ThiTH\bin\Debug\net6.0\ThiTH.runtimeconfig.json
+E:\C-sharp__Fpt-Aptech\ThiTH\ThiTH\bin\Debug\net6.0\ThiTH.dll
+E:\C-sharp__Fpt-Aptech\ThiTH\ThiTH\bin\Debug\net6.0\ThiTH.pdb
+E:\C-sharp__Fpt-Aptech\ThiTH\ThiTH\obj\Debug\net6.0\ThiTH.dll
+E:\C-sharp__Fpt-Aptech\ThiTH\ThiTH\obj\Debug\net6.0\refint\ThiTH.dll
+E:\C-sharp__Fpt-Aptech\ThiTH\ThiTH\obj\Debug\net6.0\ThiTH.pdb
+E:\C-sharp__Fpt-Aptech\ThiTH\ThiTH\obj\Debug\net6.0\ThiTH.genruntimeconfig.cache
+E:\C-sharp__Fpt-Aptech\ThiTH\ThiTH\obj\Debug\net6.0\ref\ThiTH.dll
