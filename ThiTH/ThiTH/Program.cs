@@ -26,7 +26,7 @@ namespace ThiTH
 
         public String ToString()
         {
-            return this.Id + ". " + this.Name + " - $" + this.Price;  
+            return this.Id + ". " + this.Name + ", $" + this.Price;  
         }
 
         public abstract double computeTax();
@@ -72,7 +72,8 @@ namespace ThiTH
 
             foreach(Product product in objProduct)
             {
-                Console.WriteLine(product.ToString());
+                Console.Write(product.ToString());
+                Console.WriteLine("\t - Tax: $" + product.computeTax());
                 total += product.computeTax();
             }
 
